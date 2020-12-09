@@ -1,0 +1,11 @@
+package com.gs.miscellaneous;
+
+public class StringArrayInOrder {
+	
+	public static void main(String args[]) {
+		
+		  String[] myArray = {"JavaFX", "HBase", "OpenCV", "Java", "Hadoop", "Neo4j"};
+		  
+	}
+
+}
